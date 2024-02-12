@@ -1,4 +1,4 @@
-# Calculator_Using_HTML_CSS_and_JavaScript
+# Calculator_Using_HTML_CSS_Bootstrap_and_JavaScript
 
  <img width="400px" src=./Calculator.png>
 
